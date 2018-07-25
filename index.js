@@ -1,6 +1,7 @@
 function scuberGreetingForFeet(someValue 199) {
   //this is where we can use conditionals given our argument, someValue
   //don't forget to return whatever the result is!
+  let result
   if (someValue < 400) {
     return = 'This one is on me!';
   }
