@@ -5,7 +5,7 @@ function scuberGreetingForFeet(someValue) {
     return 'This one is on me!';
     
   }
-  if else (someVale >= 200) {
+  if else (someValue >= 2000) {
     return 
   }
 }
