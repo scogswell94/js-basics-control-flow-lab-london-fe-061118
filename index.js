@@ -25,6 +25,9 @@ function ternaryCheckCity(City) {
 
 //done
 
-fuction 
+fuction switchOnCharmFromTip() {
+  if
+  
+}
 
 
