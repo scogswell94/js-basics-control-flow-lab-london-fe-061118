@@ -18,7 +18,7 @@ function ternaryCheckCity(City) {
   if (City =="NYC") {
    return "Ok, sounds good.";
  }
- else if (City = "Pittsburgh") {
+ else if (City == "Pittsburgh") {
    return 'No go.';
  }
 }
@@ -29,7 +29,7 @@ function switchOnCharmFromTip(Tip) {
   if (Tip == "generous" ) {
     return "Thank you so much.";
   } 
-  else if (Tip = ) {
+  else if (Tip == ) {
     return
   }
   else if (Tip = "thanks for everything") {
