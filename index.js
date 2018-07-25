@@ -23,6 +23,8 @@ function ternaryCheckCity(City) {
  }
 }
 
+//done
 
+fuction 
 
 
