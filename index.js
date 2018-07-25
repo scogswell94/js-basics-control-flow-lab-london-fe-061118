@@ -15,8 +15,8 @@ function scuberGreetingForFeet(someValue) {
 
 
 
-function ternaryCheckCity() {
-  if (city = NYC)
+function ternaryCheckCity(City) {
+  if (City = NYC)
    return "NYC"
 }
 
